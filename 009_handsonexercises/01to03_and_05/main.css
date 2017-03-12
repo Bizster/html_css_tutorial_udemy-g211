@@ -1,0 +1,11 @@
+div {
+    width:200px;
+    height: 200px;
+    background-color: purple;
+    border: 20px groove cornsilk;
+    border-radius: 20px;
+    background-image: url("https://assets.babycenter.com/ims/2016/10/iStock_43693432_4x3.jpg?size=600");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

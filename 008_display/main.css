@@ -1,0 +1,26 @@
+div {
+    width: 200px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 45px;
+    background-image: url("../004_relative-vs-abs-urls/12075024_10153026096062397_5332024458736391454_n.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img {
+    border-radius: 25px;
+    border: 30px inset purple;
+    padding: 20px;
+    margin: 30px;
+
+}
+
+.dogone {
+    border: 30px dashed orangered;
+}
+.dogtwo{
+    border: 30px dotted green;
+}
+.dogthree{
+    border: 30px double blue;;
+}

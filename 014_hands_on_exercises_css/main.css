@@ -1,0 +1,73 @@
+/*Exercise 1*/
+
+/*#third {*/
+    /*color:red;*/
+/*}*/
+
+/*Exercise 2*/
+
+/*.redword{*/
+    /*color: green;*/
+/*}*/
+
+/*Exercise 3*/
+/*[target=_blank]{*/
+    /*border: 10px solid black;*/
+/*}*/
+
+/*Exercise 4*/
+
+/*a:link{*/
+    /*color: aqua;*/
+/*}*/
+/*a:visited{*/
+    /*color:chartreuse;*/
+/*}*/
+/*a:hover{*/
+    /*color:cyan;*/
+/*}*/
+/*a:active{*/
+    /*color:coral;*/
+/*}*/
+
+/*Exercise 5*/
+
+/*p:first-letter{*/
+    /*color: blue;*/
+    /*font-size:2em;*/
+    /*font-family: Serif;*/
+/*}*/
+
+/*p:first-line {*/
+    /*font-weight: bolder;*/
+    /*font-family: "Arial Black";*/
+/*}*/
+
+/*Exercise 6*/
+
+/*div p{*/
+    /*color:red;*/
+/*}*/
+
+/*Exercise 7*/
+
+/*div > p{*/
+    /*color: red;*/
+/*}*/
+
+/*!*IMPORTANT NOTE: Go over the arrow signs again! Forgot =(*!*/
+
+/*!*Exercise 8*!*/
+
+/*div ~ p{*/
+    /*color:red;*/
+/*}*/
+
+/*Exercise 9*/
+
+/*div + p{*/
+    /*color:red;*/
+/*}*/
+
+/*DONE WITH SECTION 9! Woo!*/
+

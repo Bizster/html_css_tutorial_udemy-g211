@@ -1,0 +1,40 @@
+html {
+    background-color:darkturquoise;
+}
+
+body{
+    margin:0;
+    padding: 0;
+}
+
+div {
+    background-color: forestgreen;
+    margin: 0 auto;
+    width: 60%;
+    height: 100%;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+
+    display: block;
+    padding: 20px;
+}
+
+div h1{
+    color: darkturquoise;
+}
+
+#header2{
+    color:red;
+}
+
+div img{
+    display: block;
+    border: 10px groove gold;
+    border-radius: 50%;
+
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 20px;
+
+}

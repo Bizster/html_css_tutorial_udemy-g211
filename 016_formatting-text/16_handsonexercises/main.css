@@ -1,0 +1,32 @@
+#ex1{
+    font-family: serif;
+}
+#ex2{
+    font-family: sans-serif;
+}
+
+#ex3{
+    font-family: 'Cinzel';
+}
+#ex4{
+    text-transform: uppercase;
+    font-style: italic;
+}
+#ex5{
+    font-kerning: 15px;
+}
+#ex6{
+    font-family: 'Cinzel';
+    font-weight: 800;
+    text-shadow: 1px 0px 2px blue;
+}
+#ex7{
+    text-decoration: none;
+}
+#ex8{
+    text-decoration: line-through;
+}
+#ex9{
+    max-width: 500px;
+    text-indent: 1rem;
+}

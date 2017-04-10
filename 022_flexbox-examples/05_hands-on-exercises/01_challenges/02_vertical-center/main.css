@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-flow: column wrap;
+    border: 3rem solid red;
+    flex-grow: 3;
+
+    height: 200px;
+
+    height: 50%;
+}
+
+p {
+    /*padding: 50%;*/
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: grey;
+    font-size: 5rem;
+}

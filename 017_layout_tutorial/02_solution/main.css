@@ -1,0 +1,22 @@
+div{
+    width:5rem;
+    height: 3rem;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.block1{
+    background-color: red;
+}
+.block2{
+    background-color:blue;
+}
+
+.block3{
+    background-color:yellow;
+}
+
+.block4{
+    background-color:green;
+}

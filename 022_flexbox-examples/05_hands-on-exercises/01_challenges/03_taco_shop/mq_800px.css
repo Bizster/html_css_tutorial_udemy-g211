@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-flow: column nowrap;
+
+}
+
+nav,article{
+    flex-direction: column;
+}
+
+nav{
+    width:20%;
+}
+
+article{
+    width:80%;
+}

@@ -1,0 +1,28 @@
+body{
+    height: 2000px;
+    background-color: black;
+    position:relative;
+}
+
+footer{
+    position: fixed;
+    top: 605px;
+    left: 0;
+    height: 30px;
+    width:100%;
+    background-color: white;
+}
+
+ul{
+    margin: 0;
+    padding-left: 30%;
+    float: left;
+}
+
+ul li{
+    float: left;
+    color: green;
+    font-weight: bolder;
+    list-style: none;
+    padding: 5px;
+}

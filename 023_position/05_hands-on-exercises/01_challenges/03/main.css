@@ -1,0 +1,18 @@
+#bigbox{
+    width: 600px;
+    height: 500px;
+    background-color: #547980;
+    border: 1px solid black;
+    position: relative;
+}
+
+#smallbox{
+    width:100px;
+    height: 100px;
+    background-color: turquoise;
+    border: 5px solid #ada0a2;
+    position: absolute;
+    left: 100px;
+    top: 300px;
+}
+
